@@ -46,8 +46,16 @@
         <mxCell id="rra6tTRvJPethr66ALMW-18" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;aws api gateway&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-368" y="-44.5" as="geometry" />
         </mxCell>
+        <mxCell id="rra6tTRvJPethr66ALMW-34" edge="1" parent="1" source="rra6tTRvJPethr66ALMW-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" target="rra6tTRvJPethr66ALMW-33" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rra6tTRvJPethr66ALMW-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Resume Injestion service&lt;br&gt;sqs" vertex="1">
           <mxGeometry height="80" width="160" x="50" y="-121" as="geometry" />
+        </mxCell>
+        <mxCell id="rra6tTRvJPethr66ALMW-37" edge="1" parent="1" source="rra6tTRvJPethr66ALMW-22" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="297.5943068734091" y="60.00960425827361" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rra6tTRvJPethr66ALMW-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="fetch query / data&lt;br&gt;sqs" vertex="1">
           <mxGeometry height="80" width="160" x="50" y="19" as="geometry" />
@@ -60,6 +68,12 @@
         </mxCell>
         <mxCell id="rra6tTRvJPethr66ALMW-26" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="SNS / Eventbridge" vertex="1">
           <mxGeometry height="60" width="120" x="-183" y="-43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rra6tTRvJPethr66ALMW-33" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Architects Daughter;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&amp;nbsp;Injestion Lambda&lt;br&gt;only injestion" vertex="1">
+          <mxGeometry height="77" width="152" x="303" y="-118" as="geometry" />
+        </mxCell>
+        <mxCell id="rra6tTRvJPethr66ALMW-38" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Ec2 / fargate" vertex="1">
+          <mxGeometry height="80" width="120" x="319" y="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
