@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rra6tTRvJPethr66ALMW-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="537.5" width="906" x="-361" y="-367" as="geometry" />
+          <mxGeometry height="537.5" width="963" x="-361" y="-367" as="geometry" />
         </mxCell>
         <mxCell id="rra6tTRvJPethr66ALMW-63" edge="1" parent="1" source="rra6tTRvJPethr66ALMW-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" target="rra6tTRvJPethr66ALMW-46">
           <mxGeometry relative="1" as="geometry" />
@@ -119,10 +119,13 @@
           <mxGeometry height="30" width="109" x="82" y="-23" as="geometry" />
         </mxCell>
         <mxCell id="rra6tTRvJPethr66ALMW-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Aws cloudwatch&amp;nbsp;&lt;br&gt;Logs + metrics + alarms" vertex="1">
-          <mxGeometry height="105" width="210" x="82" y="231" as="geometry" />
+          <mxGeometry height="105" width="210" x="-304" y="227" as="geometry" />
         </mxCell>
         <mxCell id="rra6tTRvJPethr66ALMW-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Ai metrics&lt;br&gt;LangSmith + RAGGAS" vertex="1">
-          <mxGeometry height="105" width="210" x="-188" y="231" as="geometry" />
+          <mxGeometry height="105" width="210" x="105" y="218" as="geometry" />
+        </mxCell>
+        <mxCell id="rra6tTRvJPethr66ALMW-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="circuit breaker" vertex="1">
+          <mxGeometry height="102" width="182" x="348" y="218" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
