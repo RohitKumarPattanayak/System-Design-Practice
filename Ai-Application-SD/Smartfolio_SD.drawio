@@ -44,30 +44,30 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rra6tTRvJPethr66ALMW-18" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;aws api gateway&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="-327" y="-42.5" as="geometry" />
+          <mxGeometry height="60" width="120" x="-368" y="-44.5" as="geometry" />
         </mxCell>
         <mxCell id="rra6tTRvJPethr66ALMW-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Resume Injestion service&lt;br&gt;Queue" vertex="1">
-          <mxGeometry height="80" width="160" x="143" y="-197" as="geometry" />
+          <mxGeometry height="80" width="160" x="52" y="-198" as="geometry" />
         </mxCell>
-        <mxCell id="rra6tTRvJPethr66ALMW-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="" vertex="1">
-          <mxGeometry height="80" width="160" x="143" y="-60.5" as="geometry" />
+        <mxCell id="rra6tTRvJPethr66ALMW-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="fetch query / data" vertex="1">
+          <mxGeometry height="80" width="160" x="52" y="-61.5" as="geometry" />
         </mxCell>
         <mxCell id="rra6tTRvJPethr66ALMW-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="" vertex="1">
-          <mxGeometry height="80" width="160" x="143" y="83" as="geometry" />
+          <mxGeometry height="80" width="160" x="52" y="82" as="geometry" />
         </mxCell>
         <mxCell id="rra6tTRvJPethr66ALMW-28" edge="1" parent="1" source="rra6tTRvJPethr66ALMW-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rra6tTRvJPethr66ALMW-20" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rra6tTRvJPethr66ALMW-29" edge="1" parent="1" source="rra6tTRvJPethr66ALMW-26" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="134.28580147879484" y="-12.571428571428442" as="targetPoint" />
+            <mxPoint x="43.28580147879484" y="-13.571428571428442" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rra6tTRvJPethr66ALMW-30" edge="1" parent="1" source="rra6tTRvJPethr66ALMW-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" target="rra6tTRvJPethr66ALMW-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rra6tTRvJPethr66ALMW-26" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="SNS" vertex="1">
-          <mxGeometry height="60" width="120" x="-92" y="-42.5" as="geometry" />
+          <mxGeometry height="60" width="120" x="-183" y="-43.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
