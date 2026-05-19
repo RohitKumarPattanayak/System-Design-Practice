@@ -1,0 +1,5 @@
+This is system design for getting the list of live classed in real time
+
+-This provide CRUD over live class
+-Search an event/webinar
+-Book a seat for each webinar (limited slots) -> Payment
